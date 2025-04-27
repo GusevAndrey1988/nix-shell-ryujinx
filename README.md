@@ -18,3 +18,6 @@ services.udev = {
 };
 hardware.uinput.enable = true;
 ```
+
+## Откуда брать Ryujinx
+https://github.com/Ryubing/Stable-Releases/releases
